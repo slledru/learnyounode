@@ -1,0 +1,23 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Programs for learnyounode",
+  "main": "async-io.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slledru/learnyounode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slledru/learnyounode/issues"
+  },
+  "homepage": "https://github.com/slledru/learnyounode#readme",
+  "dependencies": {
+    "bl": "^1.2.1"
+  }
+}
